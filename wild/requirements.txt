@@ -1,0 +1,17 @@
+
+ultralytics==8.0.206
+opencv-python
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+Pillow
+tensorflow
+torch
+torchvision
+tqdm
+jupyterlab
+notebook
+ipykernel
+scipy

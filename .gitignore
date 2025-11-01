@@ -1,0 +1,38 @@
+# Virtual environments
+venv/
+**/venv/
+wild/venv/
+yolo_project/venv/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and checkpoints
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Large media and datasets
+*.mp4
+*.mov
+*.avi
+*.mkv
+suspicious_driving_ai/video input/
+
+# Archives and datasets
+*.zip
+*.tar
+*.tar.gz
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
